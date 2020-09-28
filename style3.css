@@ -101,7 +101,7 @@
 
 */
 
-/* align-self */    
+/* align-self */
 .container {
   display: flex;
   border: 10px solid mistyrose;
@@ -124,9 +124,9 @@
 .box9 {
   padding-bottom: 50px;
   align-self: center;
-  flex-end overwrites the flex-start above 
+  /*flex-end overwrites the flex-start above 
        center, baseline, stretch
-    
+    */
 }
 
 /*
